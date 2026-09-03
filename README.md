@@ -52,6 +52,10 @@ SimuMRI/ #carpeta general
 ├── tareas_subidas/              # Carpeta donde se guardan las tareas subidas
 ├── resultados_estudiantes.csv   # Registro de resultados de actividades
 └── tareas_estudiantes.txt       # Registro de tareas enviadas
+├── archive/ #dataset del MRI
+
+LINK DE DESCARGA PARA EL DATASET
+https://drive.google.com/file/d/1zZU-pbUkpqfbOPCdbCfb_sC6Dm6GBebs/view?usp=sharing
 
 Ejecutar la aplicación con el siguiente comando:
 python appSimuMRI.py
